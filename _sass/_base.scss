@@ -10,8 +10,8 @@ body {
 
 hr {
     border-color: $theme-primary;
-    border-width: 3px;
-    max-width: 50px;
+    border-width: 15px;
+    max-width: 90px;
 }
 
 hr.light {
@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('/img/header_oils.jpg');
     text-align: center;
     color: white;
     .header-content {
