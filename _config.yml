@@ -2,8 +2,8 @@
 title: fairundreineoele
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://fairundreineoele.netlify.app" # the base hostname & protocol for your site
+baseurl: "/fairundreineoele" # the subpath of your site, e.g. /blog/
+url: "https://spegioloni.github.io/fairundreineoele" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
